@@ -19,7 +19,12 @@
 
 Now unstage the git:
     11. Entered the required git: git checkout ce3f6e8 index.js
+    
     12. Reset the git: git reset index.js
+    
     13. Further check the git status: git status
+    
     14. Back to previous version: git checkout -- index.js
+    
     15. Further check the git status to ensure: git status
+    
